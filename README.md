@@ -51,10 +51,10 @@ Jonas mostrou-se atento e colaborativo durante o treinamento, participando ativa
   - `azure-cognitiveservices-speech`
   - `openai`
 
-**Licença**
+## **Licença**
 Este projeto está licenciado sob a MIT License.
 
-**Contato**
+## **Contato**
 Para dúvidas ou sugestões, entre em contato:
 
 Email: josegabrielsouzacastro@gmail.com
